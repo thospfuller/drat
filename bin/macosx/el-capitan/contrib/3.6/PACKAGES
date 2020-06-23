@@ -5,4 +5,4 @@ Imports: rJava, RJSONIO
 Suggests: testthat
 License: LGPL-3
 Archs: i386, x64
-MD5sum: a2b34eb51b72f32f52f26bcdd357c2c9
+MD5sum: e64274cc98edf523532b12b51bff7c71
