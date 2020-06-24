@@ -1,9 +1,9 @@
 Package: RCOBOLDI
 Version: 1.0.3
-Depends: rJava, RJSONIO
-Imports: rJava, RJSONIO
+Depends: rJava, RJSONIO, logging
+Imports: rJava, RJSONIO, logging
 Suggests: testthat
 License: LGPL-3
 Archs: i386, x64
-MD5sum: 4c30f41ad8aad25502c646641b068f9f
+MD5sum: 178f59a0d7295e934ee8f282f2ed7b8f
 NeedsCompilation: no
