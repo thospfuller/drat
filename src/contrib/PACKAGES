@@ -1,3 +1,61 @@
+Package: rbitcoinchartsapi
+Version: 1.0.5
+Depends: R (>= 4.2.0), RJSONIO, RCurl, logging
+License: LGPL-3
+Archs: i386, x64
+MD5sum: ff87159bd5a41d9a622d9fed41d06089
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0
+Depends: rJava, RJSONIO
+Imports: rJava, RJSONIO
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: c2286347a259f73ff9ccb9e6b94c1501
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0.1
+Depends: rJava, RJSONIO
+Imports: rJava, RJSONIO
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: 88e121d79855c359e695ca0bdb945547
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0.1
+Depends: rJava, RJSONIO
+Imports: rJava, RJSONIO
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: 10dc2a809c5b263bd6f53ecd31fe87b4
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0.2
+Depends: rJava, RJSONIO
+Imports: rJava, RJSONIO
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: 6c5734176fec9666615d605af16c9ec4
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0.2
+Depends: rJava, RJSONIO
+Imports: rJava, RJSONIO
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: d784d8b17c1abe2b249ca3060d5533c6
+NeedsCompilation: no
+
 Package: RCOBOLDI
 Version: 1.0.3
 Depends: rJava, RJSONIO, logging
@@ -6,4 +64,24 @@ Suggests: testthat
 License: LGPL-3
 Archs: i386, x64
 MD5sum: 178f59a0d7295e934ee8f282f2ed7b8f
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0.3
+Depends: rJava, RJSONIO, logging
+Imports: rJava, RJSONIO, logging
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: 6dd39119897be700137b8fe23eca0b62
+NeedsCompilation: no
+
+Package: RCOBOLDI
+Version: 1.0
+Depends: rJava, RJSONIO
+Imports: rJava, RJSONIO
+Suggests: testthat
+License: LGPL-3
+Archs: i386, x64
+MD5sum: 12ed52b27e0c407f68560dd343be928d
 NeedsCompilation: no

@@ -1,0 +1,6 @@
+Package: rbitcoinchartsapi
+Version: 1.0.5
+Depends: R (>= 4.2.0), RJSONIO, RCurl, logging
+License: LGPL-3
+Archs: i386, x64
+MD5sum: e594f395ad4770861ec64f204182de35
