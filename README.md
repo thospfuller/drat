@@ -8,4 +8,6 @@ Below is a list of packages that are hosted in this Drat repository.
 
 ### RCOBOLDI: R COBOL Data Integration Package
 
-[RCOBOLDI](https://github.com/thospfuller/rcoboldi/) (Data Integration) Package: An R package that facilitates the importation of COBOL CopyBook data directly into the [R Project for Statistical Computing](https://www.linkedin.com/in/thomasfuller/) as properly structured data frames.
+[RCOBOLDI](https://github.com/thospfuller/rcoboldi/) (R COBOL Data Integration) Package: An R package that facilitates the importation of COBOL CopyBook data directly into the [R Project for Statistical Computing](https://www.r-project.org/) as properly structured data frames.
+
+[rbitcoinchartsapi](https://github.com/thospfuller/rbitcoinchartsapi) An R Package for the BitCoinCharts.com API which includes functions to acquire historic trade data, weighted prices, and market data.
